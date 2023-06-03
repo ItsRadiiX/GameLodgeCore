@@ -1,0 +1,4 @@
+name: GameLodgeCore
+version: '${project.version}'
+main: nl.bryansuk.gamelodgecore.GameLodgeCore
+api-version: 1.19
